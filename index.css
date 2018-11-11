@@ -1,0 +1,17 @@
+* {
+  font-family: Helvetica, arial, sans-serif;
+}
+
+.text-red {
+  color: red;
+}
+
+.btn {
+  padding: 10px;
+  border: 0;
+  background: rgb(50,150,120, 1.0);
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  cursor: pointer;
+}
